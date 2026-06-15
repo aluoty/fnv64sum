@@ -7,5 +7,5 @@ make
 ```
 Clean by:
 ```bash
-clean
+make clean
 ```
