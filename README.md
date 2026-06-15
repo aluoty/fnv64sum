@@ -3,7 +3,7 @@ This is cash, a lightweight hashing software
 Run by:
 ```bash
 make
-./fnv64sum foo.bar
+./build/fnv64sum foo.bar
 ```
 Clean by:
 ```bash
